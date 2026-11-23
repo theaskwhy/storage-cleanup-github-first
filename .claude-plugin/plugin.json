@@ -1,0 +1,10 @@
+{
+  "name": "storage-cleanup-github-first",
+  "description": "Use when a computer is low on disk space from development work \u2014 finding large project folders, making sure anything worth keeping is backed up to GitHub (or cloud storage) first, then removing what will never be used again.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "license": "MIT"
+}
